@@ -51,14 +51,14 @@
 - требования к изображениям, которые будут выступать в качестве меток
 - создание своего переиспользуемого компонента
 
-#### 3. Google Cloud Anchors
-
-- интеграция ARCore Extnsions for ARFoundation
-- настройка GCP
-- создание AR приложения
-
-#### 4. Клиент-Серверное взаимодействие
+#### 3. Клиент-Серверное взаимодействие
 
 - Unity Web Request
 - C# HttpClient
 - Newtonsoft.Json для Unity
+
+#### 4. Google Cloud Anchors
+
+- интеграция ARCore Extnsions for ARFoundation
+- настройка GCP
+- создание AR приложения
