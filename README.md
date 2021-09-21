@@ -24,10 +24,10 @@
 
 ### Продвинутая работа c Unity и ARFoundation
 
-#### 8. Scriptable Objects
+#### 6. Scriptable Objects
 
-#### 6. Создание библиотеки меток в рантайме
+#### 7. Создание библиотеки меток в рантайме
 
-#### 7. Google Cloud Anchors
+#### 8. Google Cloud Anchors
 
 #### 9. Клиент-Серверное взаимодействие
