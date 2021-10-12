@@ -59,6 +59,6 @@
 
 #### 4. Google Cloud Anchors
 
-- интеграция ARCore Extnsions for ARFoundation
+- интеграция ARCore Extensions for ARFoundation
 - настройка GCP
 - создание AR приложения
